@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/devrrior" target="blank"><img src="https://img.shields.io/twitter/follow/devrrior?logo=twitter&style=for-the-badge" alt="devrrior" /></a> </p>
 
-- ?? I�m currently working on [personal project with django](https://github.com/devrrior/ecommerce-django)
+- 🔭 I’m currently working on [personal project with django](https://github.com/devrrior/ecommerce-django)
 
-- ?? I�m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
-- ????? All of my projects are available at [https://github.com/devrrior/](https://github.com/devrrior/)
+- 👨‍💻 All of my projects are available at [https://github.com/devrrior/](https://github.com/devrrior/)
 
-- ?? I regularly write articles on [https://twitter.com/devrrior](https://twitter.com/devrrior)
+- 📝 I regularly write articles on [https://twitter.com/devrrior](https://twitter.com/devrrior)
 
-- ?? Ask me about **Django and Flask**
+- 💬 Ask me about **Django and Flask**
 
-- ?? How to reach me **devrrior@gmail.com**
+- 📫 How to reach me **devrrior@gmail.com**
 
-- ? Fun fact **I like cooking**
+- ⚡ Fun fact **I like cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
