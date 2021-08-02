@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate backend developer from Mexico</h3>
 
-[![Twitter](https://img.shields.io/badge/devrrior-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/devrrior) [![YouTube](https://img.shields.io/badge/fernandoguerrero-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/andypiperuk) 
+[![Twitter](https://img.shields.io/badge/devrrior-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/devrrior) [![YouTube](https://img.shields.io/badge/fernandoguerrero-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCBIsNr4m8KTpjiguO6_cgcw) 
 
 
 
