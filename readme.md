@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/16558415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16558415" height="30" width="40" /></a>
 <a href="https://instagram.com/fernandoguerrerox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandoguerrerox" height="30" width="40" /></a>
 <a href="https://medium.com/@fernandoguerrerogg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fernandoguerrerogg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucbisnr4m8ktpjiguo6_cgcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbisnr4m8ktpjiguo6_cgcw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBIsNr4m8KTpjiguO6_cgcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbisnr4m8ktpjiguo6_cgcw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
