@@ -2,6 +2,7 @@
 <h3 align="center">A passionate backend developer from Mexico</h3>
 
 <p align="left"> <a href="https://twitter.com/devrrior" target="blank"><img src="https://img.shields.io/twitter/follow/devrrior?logo=twitter&style=for-the-badge" alt="devrrior" /></a> </p>
+[![Twitter](https://img.shields.io/badge/devrrior%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/devrrior)
 
 - 🔭 I’m currently working on [personal project with django](https://github.com/devrrior/ecommerce-django)
 
