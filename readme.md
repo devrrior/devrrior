@@ -1,17 +1,17 @@
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-#### I'm Fernando Guerrero, a Backend Developer in Chiapas, Mexico
+#### I'm Fernando Guerrero, a Backend Developer in Mexico
 
 ##### NOW
 - Django Developer at [`AisModa`](https://github.com/Python-en-equipo/MarketPlace)
 - Currently studying `Kubernetes` and `AWS`
-- 🔭 I’m currently working on [personal project with typescript](https://github.com/devrrior/ecommerce-express)
+- 🔭 I’m currently working on a personal project [`ecommerce-express`](https://github.com/devrrior/ecommerce-express)
 
 ##### BIO
 - 🏢 I'm currently studying Software Engineering at **UP Chiapas**
 - 🎥 I regularly upload videos on [`YouTube`](https://www.youtube.com/channel/UCBIsNr4m8KTpjiguO6_cgcw)
-- 💬 How to reach me [`devrrior@gmail.com`](mailto:devrrior@gmail.com) or [`twitter.com/devrrior`](https://twitter.com/devrrior) 
+- 💬 Reach me at [`devrrior@gmail.com`](mailto:devrrior@gmail.com) or [`twitter.com/devrrior`](https://twitter.com/devrrior) 
 - 🏀 Fun fact? I'm a huge fan of NBA
 
 ##### LANGUAGES AND TOOLS
