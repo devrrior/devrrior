@@ -10,7 +10,6 @@
 
 ##### BIO
 - 🏢 I'm currently studying Software Engineering at **UP Chiapas**
-- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.sh`, `Dockerfile`
 - 🎥 I regularly upload videos on [`YouTube`](https://www.youtube.com/channel/UCBIsNr4m8KTpjiguO6_cgcw)
 - 💬 How to reach me [`devrrior@gmail.com`](mailto:devrrior@gmail.com) or [`twitter.com/devrrior`](https://twitter.com/devrrior) 
 - 🏀 Fun fact? I'm a huge fan of NBA
