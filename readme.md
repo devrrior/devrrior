@@ -4,7 +4,6 @@
 #### I'm Fer, a Backend Developer in Mexico 🇲🇽
 
 ##### NOW
-- 💻 Intern as Backend Developer at [`Nextline`](https://www.linkedin.com/company/nextlinemx/)
 - Currently studying `NestJS` and `Flutter`
 - 🔭 I’m currently seeking for new challenges
 
