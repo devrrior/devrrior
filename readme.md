@@ -14,4 +14,4 @@
 - 🏀 Fun fact? I'm a huge fan of NBA
 
 ##### LANGUAGES AND TOOLS
-- `NestJS`, `Spring Web`, `ReactJS`, `Flutter`, `Docker`, `Figma`
+- `NestJS`, `Spring Boot`, `ReactJS`, `Flutter`, `Docker`, `Figma`
