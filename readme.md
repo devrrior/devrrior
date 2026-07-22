@@ -8,7 +8,7 @@
 - 🔭 I’m currently seeking for new challenges
 
 ##### BIO
-- 💬 Reach me at [`devrrior@gmail.com`](mailto:devrrior@gmail.com) or [`twitter.com/devrrior`](https://twitter.com/devrrior) 
+- 💬 Reach me at [`ferguerrero.dev@gmail.com`](mailto:ferguerrero.dev@gmail.com) or [`twitter.com/devrrior`](https://twitter.com/devrrior) 
 - 🎓 Graduated as Software Engineering at **UP Chiapas**
 - 🎥 I regularly upload videos on [`YouTube`](https://www.youtube.com/channel/UCBIsNr4m8KTpjiguO6_cgcw)
 - 🏀 Fun fact? I'm a huge fan of NBA
